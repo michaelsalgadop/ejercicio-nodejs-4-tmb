@@ -94,7 +94,7 @@ const recibirResultadoPorEmail = () =>
                       "Incorrecto! Introduce un correo electrónico válido!"
                     );
                   } else {
-                    return "";
+                    return " ";
                   }
                 },
               },
